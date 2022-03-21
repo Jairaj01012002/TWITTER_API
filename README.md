@@ -36,5 +36,8 @@ I have tested different request on thunder client instead of postman, the screen
 * JWT
 * CORS
 * Bcrypt
+# Twitter token screenshot
+![twikey](https://user-images.githubusercontent.com/54246473/159267863-9b21baec-41b3-436d-bc8e-4dd5c1056ccc.PNG)
+
 
 
