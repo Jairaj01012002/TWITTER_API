@@ -30,5 +30,11 @@ I have tested different request on thunder client instead of postman, the screen
 ![WhatsApp Image 2022-03-20 at 23 20 50](https://user-images.githubusercontent.com/54246473/159265887-9972804e-f515-4374-8d57-4c97f73f0152.jpeg)
 ![WhatsApp Image 2022-03-20 at 23 20 54](https://user-images.githubusercontent.com/54246473/159265890-0710f5e7-2128-4e71-85a9-0dc73d5fecde.jpeg)
 ![WhatsApp Image 2022-03-20 at 23 20 29](https://user-images.githubusercontent.com/54246473/159265895-bd44b7eb-dbf1-49d3-ba43-11d5e99adc56.jpeg)
+# Module and Function Used
+* Express
+* needle
+* JWT
+* CORS
+* Bcrypt
 
 
